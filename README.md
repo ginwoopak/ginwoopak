@@ -14,7 +14,7 @@ In my free time, I enjoy cooking Korean, Thai, and Japanese recipes I find on yo
 
 ## Technologies
 
-### Front End | JavaScript, TypeScript, React, React-Native, HTML5, CSS3, Sass, Axios, Material-UI, Next.js
-### Back End | Node.js, Nest.js, Express, GraphQL, PostgreSQL, MongoDB, MySQL, RESTful API Development
-### Testing/Deployment | Jest, Enzyme, Mocha, Chai, NewRelic, K6, Loader.io AWS: AMI and EC2, Vercel, NGINX
-### Developer Tools | Linux, Ubuntu, Bash, Git, Npm, Yarn, Nodemon, Webpack, Babel, Agile Methodologies, TDD
+#### Front End | JavaScript, TypeScript, React, React-Native, HTML5, CSS3, Sass, Axios, Material-UI, Next.js
+#### Back End | Node.js, Nest.js, Express, GraphQL, PostgreSQL, MongoDB, MySQL, RESTful API Development
+#### Testing/Deployment | Jest, Enzyme, Mocha, Chai, NewRelic, K6, Loader.io AWS: AMI and EC2, Vercel, NGINX
+#### Developer Tools | Linux, Ubuntu, Bash, Git, Npm, Yarn, Nodemon, Webpack, Babel, Agile Methodologies, TDD
