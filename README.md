@@ -4,7 +4,7 @@
 
 I always thought my dream was to be an astronaut. 
 
-It seemed like an appropriate dream given my BS in Mechanical Engineering. A couple of coding classes (MatLab, Python) in college peaked my interest in software development but I thought it was too late to switch majors. After graduating from UCSB, I started my career as a Consultant Engineer and had so much fun learning and working in diverse occupations and engineering solutions for property risk improvement. I was so fortunate to have worked at FM Global as my first job but something was missing. After a few years, I yearned to learn more, yearned to learn something different. 
+It seemed like an appropriate dream given my BS in Mechanical Engineering. A couple of coding classes (MatLab, Python) in college piqued my interest in software development but I thought it was too late to switch majors. After graduating from UCSB, I started my career as a Consultant Engineer and had so much fun learning and working in diverse occupations and engineering solutions for property risk improvement. I was so fortunate to have worked at FM Global as my first job but something was missing. After a few years, I yearned to learn more, yearned to learn something different. 
 
 Then, the pandemic hit and my perspective shifted from "What should I be doing?" to "What do I actually want to do?". 
 
